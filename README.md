@@ -6,8 +6,6 @@ This could also be called "one-time accounts" or "one-time transactions" (if use
 
 This allows for one, and only one, transaction to be sent from some newly-created account. If this account is funded by some party (or parties), this could be used for multisigs or group contract deployments, for example.
 
-All credits to @kayabaNerve for the idea :D
-
 #### Example 
 Say someone wants to deploy a contract, but it's really expensive, and they want their community/DAO/friends/family to help pay to deploy it.
 
